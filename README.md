@@ -12,4 +12,7 @@ Also do pip install dotenv module, I ain't putting requirements.txt
 To run it just execute ```python app.py```
 
 
+AND AND AND, I've used the string ```Krishna's weather app```, don't be befooled, It's just my FAITH
+
+
 ![](display.png)
